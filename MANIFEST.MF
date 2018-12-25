@@ -1,0 +1,10 @@
+Plugin-SymbolicName: %{Plugin_Name}
+Plugin-Name: %{Plugin_Name}
+Plugin-ActivationPolicy: %{Plugin_ActivationPolicy}
+Plugin-Version: %{Plugin_Version}
+Plugin-Description: %{Plugin_Description}
+Plugin-Vendor: %{Plugin_Vendor}
+Plugin-ContactAddress: %{Plugin_ContactAddress}
+
+
+
