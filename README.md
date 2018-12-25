@@ -21,6 +21,7 @@
 
 
 ###如何安装使用：
+
 下载后放到qt的wizards目录下即可
 例如：
 ![](https://github.com/Caprey/CTK-Plugin-Wizards/blob/master/screentshot/20181225162305.png) 
